@@ -89,8 +89,6 @@ section {
   padding-top: 24px;
   padding-bottom: 25px;
   border-bottom: 1px solid #ececec;
-  max-width: 1600px;
-  margin: 0 auto;
 }
 .header > .container {
   display: flex;
@@ -167,8 +165,8 @@ section {
     url(../images/SloganImg.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  max-width: 1600px;
-  margin: 0 auto;
+  /* max-width: 1600px;
+  margin: 0 auto; */
 }
 .slogan-container {
   padding-top: 200px;
@@ -236,6 +234,7 @@ section {
   width: 270px;
   height: 120px;
   background-color: #f5f4fa;
+  border-radius: 4px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -269,8 +268,6 @@ section {
 /*----------TEAM----------*/
 .team {
   background: #f5f4fa;
-  max-width: 1600px;
-  margin: 0 auto;
 }
 .team-title {
   margin-bottom: 50px;
@@ -364,8 +361,6 @@ section {
   background: #2f303a;
   padding-top: 60px;
   padding-bottom: 60px;
-  max-width: 1600px;
-  margin: 0 auto;
 }
 .footer-section {
   padding-bottom: 0;
